@@ -1,0 +1,3 @@
+[submodule "arcee_cli/mcp-server-tess-xtp"]
+	path = arcee_cli/mcp-server-tess-xtp
+	url = https://github.com/diegofornalha/mcp-server-tess-xtp.git
